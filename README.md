@@ -1,2 +1,3 @@
 # pandas-challenge-1
 The objective of Module 4 Challenge is to dive into a dataset from a fictional e-commerce firm, scrutinizing and interpreting data to tackle practical real-world business inquiries. This mission involves pinpointing top customers, trending or popular product categories, calculatin profits, and additional analyses to enhance comprehension of data exploration, transformation, and analysis techniques. This is a good exercise and practice to prepare me for more complex data scenarios in this bootcamp course and for my future career in AI. 
+I used week 4 class training material from solved and unsolved problems as well as Xpert Leraning AI Assistant to help me troubleshoot error codes as well as leveraging office hourse with TA help.
