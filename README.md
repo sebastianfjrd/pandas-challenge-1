@@ -21,9 +21,10 @@ Line Profit: Calculated profit for each line using line cost and line price.
 Confirming Work
 Confirmed the total prices for three specific orders against provided email receipts:
 
-Order ID 2742071: $152,811.89
-Order ID 2173913: $162,388.71
-Order ID 6128929: $923,441.25
+#Order ID 2742071: $152,811.89
+#Order ID 2173913: $162,388.71
+#Order ID 6128929: $923,441.25
+
 Summarizing and Analyzing
 Top Clients by Spending: Calculated the total spending of the top five clients.
 Summary DataFrame: Created a summary DataFrame with total units purchased, total shipping price, total revenue, and total profit for the top five clients.
